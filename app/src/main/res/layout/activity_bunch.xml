@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--basic swiping functionality for the pages-->
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:onClick="showFragment"
+        android:text ="@string/buttonText"/>
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bunch</string>
+
+    <string name="like">Like</string>
+    <string name = "dislike">Dislike</string>
+    <string name="buttonText">Show Fragment</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/shah/Documents/Android/bunch/bottomsheet/src/main/res/values/bool.xml -->
+    <eat-comment/>
+    <bool name="bottomsheet_is_tablet">false</bool>
+    <!-- From: file:/C:/Users/shah/Documents/Android/bunch/bottomsheet/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bottomsheet_default_sheet_width">0dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/shah/Documents/Android/bunch/bottomsheet/src/main/res/values-sw600dp/bool.xml -->
+    <eat-comment/>
+    <bool name="bottomsheet_is_tablet">true</bool>
+    <!-- From: file:/C:/Users/shah/Documents/Android/bunch/bottomsheet/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bottomsheet_default_sheet_width">446dp</dimen>
+</resources>
